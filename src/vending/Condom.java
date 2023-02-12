@@ -1,4 +1,4 @@
-package Vending;
+package vending;
 
 public class Condom extends Product{
     private final String size;

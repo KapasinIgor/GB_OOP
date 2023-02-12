@@ -1,4 +1,4 @@
-package Vending;
+package vending;
 
 import java.util.Date;
 
