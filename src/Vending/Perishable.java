@@ -1,3 +1,5 @@
+package Vending;
+
 import java.sql.Date;
 
 public class Perishable extends Product {
